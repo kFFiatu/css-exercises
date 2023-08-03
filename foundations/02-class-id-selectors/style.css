@@ -1,0 +1,16 @@
+.odd-number {
+    font-family: "Verdana", "DejaVu Sans", serif-sans;
+    font-size: 24px;
+    background-color: lightpink;
+}
+
+#secondNumber {
+    color: blue;
+    font-size: 36px;
+}
+
+#fourthNumber {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
