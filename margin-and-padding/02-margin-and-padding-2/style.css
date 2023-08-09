@@ -3,10 +3,7 @@ body {
   font-family: sans-serif;
 }
 
-/* body * {
-  border: 1px solid red;
 
-} */
 
 .card {
   width: 400px;
@@ -35,7 +32,7 @@ body {
   background: #e3f4ff;
   padding: 8px;
   text-align: center;
-  /* margin: 8px auto; */
+
 
 }
 
